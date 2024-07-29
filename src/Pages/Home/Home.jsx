@@ -47,7 +47,7 @@ const Home = () => {
           <Col xs={12} lg={6} className="home-text">
             <h2 className="hi">Hi,</h2>
             <h1 className="intro">
-              I'm <span>Bolajoko Opeoluwa Michael</span>
+              I'm <span>Adams Abubakry Siddique</span>
             </h1>
             <h2 className="stack">
               <span key={currentName}>{currentName}</span>
@@ -55,7 +55,7 @@ const Home = () => {
           </Col>
 
           <Col xs={12} lg={6} className="profile-img">
-            <img className="image" src={Profile} alt="Michael Bolajoko" />
+            <img className="image" src={Profile} alt="Adams" />
           </Col>
 
           <Col className="letsWork" xs={12} lg={12}>

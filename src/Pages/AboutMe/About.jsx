@@ -15,7 +15,7 @@ import useLinkedIn from "../../assets/Images/linkedin.svg"
 
 const About = () => {
   const mailLink = "mailto:michaelbolajoko@gmail.com?subject=Work%20Proposal&body=Hi%20Michael,";
-  const linkedinLink = "www.linkedin.com/in/michael-bolajoko";
+  const linkedinLink = "https://www.linkedin.com/in/adams-abubakry-siddique-50bb12304/";
   return (
     <div className="home-head">
       <div className="tools">
@@ -65,14 +65,14 @@ const About = () => {
               <div className="mail">
                 <img src={Mail} alt="" />
                 <a target="_blank" href={mailLink}>
-                  michaelbolajoko@gmail.com
+                 adamsabubakr74@gmail.com
                 </a>
               </div>
 
               <div className="linkedinProfile">
                 <img src={useLinkedIn} alt="" />
                 <a target="_blank" href={linkedinLink}>
-                  Michael Bolajoko
+                  Adams Abubakry
                 </a>
               </div>
             </div>

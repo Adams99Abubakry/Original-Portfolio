@@ -8,9 +8,9 @@ import Linkedin from "../assets/Images/linkedin.svg"
 import Github from "../assets/Images/github.svg"
 
 const NavBar = () => {
-  const linkedinLink = "www.linkedin.com/in/michael-bolajoko";
+  const linkedinLink = "https://www.linkedin.com/in/adams-abubakry-siddique-50bb12304/";
   const Resume ="https://drive.google.com/file/d/1x16rQEjht5B4Pc46K4n_C97Zz_OPYXF7/view";
-  const gitLink = "https://github.com/black-myke";
+  const gitLink = "https://github.com/Adams99Abubakry";
 
   const names = ["Skills", "Services"];
   const [currentName, setCurrentName] = useState(names[0]);
@@ -34,7 +34,7 @@ const NavBar = () => {
       <Navbar expand="lg" className="nav-head">
         <Container fluid className="">
           <h1 className="brandName">
-            Bolajoko Michael
+            Adams Abubakry Siddique
           </h1>
 
           <div className="socials">
