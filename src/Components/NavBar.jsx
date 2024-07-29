@@ -9,7 +9,7 @@ import Github from "../assets/Images/github.svg"
 
 const NavBar = () => {
   const linkedinLink = "https://www.linkedin.com/in/adams-abubakry-siddique-50bb12304/";
-  const Resume ="https://drive.google.com/file/d/1x16rQEjht5B4Pc46K4n_C97Zz_OPYXF7/view";
+  const Resume ="https://drive.google.com/file/d/1MhPlBGkQH_n0BrtGM9Ivs1innMNCnkXh/view?usp=drive_link";
   const gitLink = "https://github.com/Adams99Abubakry";
 
   const names = ["Skills", "Services"];

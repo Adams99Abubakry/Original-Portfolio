@@ -15,7 +15,7 @@ const Home = () => {
   const mailLink =
     "mailto:michaelbolajoko@gmail.com?subject=Job%20Proposal&body=Hi%20Michael, I have a job proposal!";
   const Resume =
-    "https://drive.google.com/file/d/1x16rQEjht5B4Pc46K4n_C97Zz_OPYXF7/view";
+    "https://drive.google.com/file/d/1MhPlBGkQH_n0BrtGM9Ivs1innMNCnkXh/view?usp=drive_link";
 
   const names = ["React Developer", "Web Designer", "Frontend Web Developer"];
   const [currentName, setCurrentName] = useState(names[0]);
